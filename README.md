@@ -1,5 +1,9 @@
 # CrazyCube
 
+*The CubeSat Project at Vermont State University (formerly Vermont Technical College) has ended.
+This repository is retained only for archival purposes. No further work on it is expected. No
+pull requests will be accepted.*
+
 CubedOS flight software for the Crazyflie. This repository includes the CubedOS repository as a
 submodule. The CubedOS repository includes the Ada Drivers Library (ADL) as a submodule. To
 ensure that all files are available as intended, this repository should be cloned using a
